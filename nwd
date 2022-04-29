@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+    function f(){
+    var x = input1.value
+    var m = parseInt(x);
+    alert(typeof m)
+    var y = input1.value
+    var n = parseInt(y);
+    alert(typeof n)
+
+    while (m != n && m != 0)
+            {
+                if (m > n)
+                    m = m - n;
+                else
+                    n = n - m;
+            }
+
+            const tekst = "NWD to: ";
+            p1.innerHTML = tekst + m
+}
+</script>
+</head>
+<body>
+</body>
+</html>
+
+<input id="input1">
+<input id="input2">
+<input type="button" 
+value="sprawdź" onclick="f()">
+</p>
+<p id="p1"></p>
