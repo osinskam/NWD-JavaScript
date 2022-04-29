@@ -12,13 +12,13 @@
 #### Projekt ma być częścią aplikacji matematycznej. Pozwala obliczyć NWD.
 
 
-## Użyteczność
+### Użyteczność
 #### Projekt może zostać wykorzystany w instytucjach edukacyjnych oraz przez indywidualnych użytkowników
 
 
-## Status projektu
+### Status projektu
 #### Projekt jest: _w toku_ 
 
 
-## Kontakt
+### Kontakt
 Stworzone przez @osinskam - jestem otwarta na kontakt!
