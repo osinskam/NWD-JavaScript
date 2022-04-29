@@ -1,4 +1,4 @@
-# Największy Wspólny Dzielnik
+# Największy Wspólny Dzielnik - JavaScript
 > Pierwszy projekt w JavaScript pozwalający zapoznać się z tym językiem. Ma na celu ułatwianie wykonywania obliczeń matematycznych oraz znalezienie największego wspólnego dzielnika.
 
 ## Spis treści
